@@ -1,0 +1,9 @@
+# A list of background for my application 
+# For first level you can choose: City1, City2, City3, City4
+
+firstLevelBackground = City1
+
+# For second level you can choose: War, War2, War3, War4
+
+secondLevelBackground = War2
+
